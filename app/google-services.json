@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771961134696",
+    "project_id": "fir-phoneactivity-c9524",
+    "storage_bucket": "fir-phoneactivity-c9524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771961134696:android:0d3a6e2b17d2400a8465dd",
+        "android_client_info": {
+          "package_name": "com.example.firebasephoneactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeKJerrl9VxTXq3zlQFelIrtUcH2Vwo1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

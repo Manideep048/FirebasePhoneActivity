@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="10dp"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/textwelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Welcome to the Dashboard"
+        android:gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_below="@id/textwelcome"
+        android:layout_marginTop="20dp"/>
+</RelativeLayout>
